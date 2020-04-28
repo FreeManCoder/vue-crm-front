@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Start</p>
+    <p>Wellcome</p>
   </div>
 </template>
 
